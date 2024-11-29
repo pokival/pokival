@@ -20,3 +20,4 @@ So far, I've taken/taking COMP 110, 210, and 290 at UNC! I've learned the basics
 
 ### Certifications 
 - ChatGPT Prompt Engineering for Developers (https://learn.deeplearning.ai/accomplishments/2decb44d-bb02-430f-a0da-fe48427c3803?usp=sharing)
+- TypeScript Foundations (https://typehero.dev/tracks/typescript-foundations)
